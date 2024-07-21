@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/curd-f/static/css/main.b0281046.css",
+    "main.js": "/curd-f/static/js/main.0809da0a.js",
+    "static/js/453.110e42cb.chunk.js": "/curd-f/static/js/453.110e42cb.chunk.js",
+    "static/media/logo.svg": "/curd-f/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/curd-f/index.html",
+    "main.b0281046.css.map": "/curd-f/static/css/main.b0281046.css.map",
+    "main.0809da0a.js.map": "/curd-f/static/js/main.0809da0a.js.map",
+    "453.110e42cb.chunk.js.map": "/curd-f/static/js/453.110e42cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0281046.css",
+    "static/js/main.0809da0a.js"
+  ]
+}
